@@ -10,9 +10,9 @@ Personal Claude Code plugin marketplace for [phucanh08](https://github.com/phuca
 
 ## Plugins
 
-| Plugin | Description |
-|--------|-------------|
-| [alp](https://github.com/phucanh08/alp-plugin) | Personal engineering plugin — skills, agents, workflows for daily development |
+| Plugin | Description | README |
+|--------|-------------|--------|
+| [alp](https://github.com/phucanh08/alp-plugin) | Personal engineering plugin — skills, agents, workflows for daily development | [README](https://github.com/phucanh08/alp-plugin#readme) |
 
 ## Usage
 
