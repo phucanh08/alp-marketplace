@@ -1,14 +1,23 @@
 {
   "name": "alp-personal",
-  "description": "Personal plugins for phucanh08",
+  "owner": {
+    "name": "phucanh08",
+    "email": "phucanhdn01@gmail.com"
+  },
+  "metadata": {
+    "description": "Personal plugins for phucanh08",
+    "version": "1.0.0"
+  },
   "plugins": [
     {
       "name": "alp",
-      "description": "Personal engineering plugin — skills, agents, workflows for daily development",
       "source": {
-        "type": "github",
-        "repo": "phucanh08/alp-plugin"
-      }
+        "source": "url",
+        "url": "https://github.com/phucanh08/alp-plugin.git"
+      },
+      "description": "Personal engineering plugin — skills, agents, workflows for daily development",
+      "version": "2.14.0",
+      "strict": true
     }
   ]
 }
