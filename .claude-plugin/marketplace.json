@@ -16,6 +16,7 @@
         "url": "https://github.com/phucanh08/alp-plugin.git"
       },
       "description": "Personal engineering plugin — skills, agents, workflows for daily development",
+      "readme": "https://github.com/phucanh08/alp-plugin#readme",
       "version": "2.14.0",
       "strict": true
     }
