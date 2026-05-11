@@ -6,8 +6,8 @@
       "name": "alp",
       "description": "Personal engineering plugin — skills, agents, workflows for daily development",
       "source": {
-        "type": "local",
-        "path": "D:\\Projects\\alp-plugin"
+        "type": "github",
+        "repo": "phucanh08/alp-plugin"
       }
     }
   ]
