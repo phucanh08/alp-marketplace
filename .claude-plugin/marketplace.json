@@ -1,5 +1,5 @@
 {
-  "name": "alp-personal",
+  "name": "alp-marketplace",
   "owner": {
     "name": "phucanh08",
     "email": "phucanhdn01@gmail.com"
@@ -17,7 +17,7 @@
       },
       "description": "Personal engineering plugin — skills, agents, workflows for daily development",
       "readme": "https://github.com/phucanh08/alp-plugin#readme",
-      "version": "2.14.0",
+      "version": "2.15.0",
       "strict": true
     }
   ]
